@@ -14,6 +14,7 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author yasiru
+ * contact me : https://linktr.ee/yasiruchamuditha for more information.
  */
 public class ContactModel
 {

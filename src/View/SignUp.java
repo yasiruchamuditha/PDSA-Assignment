@@ -10,7 +10,8 @@ import java.sql.Statement;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Yasiru
+ * @author yasiru
+ * contact me : https://linktr.ee/yasiruchamuditha for more information.
  */
 public class SignUp extends javax.swing.JFrame {
 

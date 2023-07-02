@@ -7,7 +7,9 @@ import Controller.ContactController;
 /**
  *
  * @author yasiru
+ * contact me : https://linktr.ee/yasiruchamuditha for more information.
  */
+
 public class AddContact extends javax.swing.JFrame {
     /**
      * Creates new form Add

@@ -8,7 +8,9 @@ package DataStructure;
 /**
  *
  * @author yasiru
+ * contact me : https://linktr.ee/yasiruchamuditha for more information.
  */
+
 public class Contact {
     private String name; //for contact name
     private String phoneNumber; //for contact no
