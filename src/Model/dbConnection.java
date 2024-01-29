@@ -21,7 +21,7 @@ public class dbConnection
         try
         {
         String dbpath="jdbc:mysql://localhost:3306/phonebook";
-        con=DriverManager.getConnection(dbpath,"root","DdCya995142@4681");
+        con=DriverManager.getConnection(dbpath,"root","root");
         }
         catch(Exception e)
         {
